@@ -214,6 +214,9 @@ print(f"""
 方式2: {way2Succeed} 成功, {way2Failed} 失败
 
 https://github.com/Avenshy/WELearnToSleep
+
+维护：https://github.com/YZBRH/Welearn_helper
+    
 本软件遵守GPLv3协议，且免费、开源，禁止售卖!
 本软件遵守GPLv3协议，且免费、开源，禁止售卖!
 本软件遵守GPLv3协议，且免费、开源，禁止售卖!
