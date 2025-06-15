@@ -21,14 +21,11 @@ pip install selenium -i https://pypi.tuna.tsinghua.edu.cn/simple
 ### （二）安装 Edge 浏览器驱动
 1. **下载地址**：[Microsoft Edge WebDriver 下载页](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/?form=MA13LH#downloads)
 2. 
-3. **操作步骤**：  
-   - 根据当前 Edge 浏览器版本选择对应驱动（通过 `Edge 设置 > 帮助与反馈 > 关于 Microsoft Edge` 查看版本号）。  
-   - 下载后解压压缩包，将 `edgedriver_win64.exe` 文件复制到系统路径（如 `C:\Windows\System32`）或脚本运行目录。  
+3. **操作步骤**：    
+   - 下载后解压压缩包，保证edge的驱动与程序在同一目录下  
 4. **版本对应示例**：  
    - 若 Edge 版本为 `136.0.3240.76`，下载 **Stable Channel** 下的 `136.0.3240.76 x64` 驱动。
-
-### (三)注意
-    -保证edge的驱动与程序在同一目录下
+    
 ## 三、使用方法
 
  **运行脚本**：  
